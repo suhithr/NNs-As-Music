@@ -1,0 +1,5 @@
+data/
+fmnist*
+myenv/
+.vscode
+.idea
